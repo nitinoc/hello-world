@@ -6,4 +6,6 @@ $msg = "This is testing message to send.";
 // send email
 mail("someone@example.com","Test Subject",$msg);
 
+//This is test/
+
 ?>
